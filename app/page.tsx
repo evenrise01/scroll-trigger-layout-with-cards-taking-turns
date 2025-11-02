@@ -23,12 +23,12 @@ export default function Home() {
           </div>
           <div className="col col-2">
             <div className="col-img col-img-1">
-              <div className="col-img-wrappe">
+              <div className="col-img-wrapper">
                 <img src="img-1.jpg" alt="" />
               </div>
             </div>
             <div className="col-img col-img-2">
-              <div className="col-img-wrappe">
+              <div className="col-img-wrapper">
                 <img src="img-2.jpg" alt="" />
               </div>
             </div>
